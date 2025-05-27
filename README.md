@@ -3,7 +3,7 @@
 An interactive web-based simulator for visualizing and understanding popular CPU scheduling algorithms:
 
 - 🔵 First Come First Serve (FCFS)
-- 🔶 Shortest Remaining Job First (SRJF - Preemptive SJF)
+- 🔶 Shortest Remaining Job First (SRJF)
 - 🟡 Priority Scheduling
 - 🔁 Round Robin (RR)
 - 🔶 Shortest job First (SJF)
